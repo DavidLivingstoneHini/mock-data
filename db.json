@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Swae",
+      "email": "kwamelivingstone77@gmail.com",
+      "phone": "0593333414"
+    },
+    {
+      "id": 2,
+      "name": "Evans",
+      "email": "evans.com",
+      "phone": "05587392979"
+    },
+    {
+      "id": 3,
+      "name": "Stone",
+      "email": "stone.com",
+      "phone": "19246623573"
+    },
+    {
+      "id": 4,
+      "name": "Stone",
+      "email": "original.com",
+      "phone": "29377241901",
+    }
+  ]
+}
